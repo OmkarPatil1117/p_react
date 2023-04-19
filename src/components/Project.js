@@ -43,7 +43,7 @@ const Project = ({ technologies, title, image, color, id, github, deployed, desc
           <span className="viewWork">View Work &#8594;</span>
         </div>
         <div className="imageContainer col-6 d-flex align-items-center justify-content-center">
-          <img src={image} alt="Laptop displaying application" />
+          <img src={"https://schemazone.com/wp-content/uploads/2021/03/Project-Manager.jpg"} alt="Laptop displaying application" />
         </div>
       </div>
       <Modal
